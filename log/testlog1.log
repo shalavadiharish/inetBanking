@@ -1,0 +1,51 @@
+2019-09-10 00:59:49,400 [main] INFO eBanking - Opening the URL
+2019-09-10 00:59:49,480 [main] INFO eBanking - Entering the userName
+2019-09-10 00:59:52,621 [main] INFO eBanking - Entering the password
+2019-09-10 00:59:52,723 [main] INFO eBanking - Entering the password
+2019-09-10 00:59:54,552 [main] INFO eBanking - Verifying the Title
+2019-09-10 00:59:54,556 [main] INFO eBanking - Tittle is correct Login testcase Passed
+2019-09-15 18:26:26,723 [main] INFO eBanking - Opening the URL
+2019-09-15 18:26:26,824 [main] INFO eBanking - Entering the userName
+2019-09-15 18:26:29,720 [main] INFO eBanking - Entering the password
+2019-09-15 18:26:29,860 [main] INFO eBanking - clicking on submit button
+2019-09-15 18:26:31,742 [main] INFO eBanking - Verifying the Title
+2019-09-15 18:26:31,744 [main] INFO eBanking - Tittle is correct Login testcase Passed
+2019-09-15 21:49:10,847 [main] INFO eBanking - Opening the URL
+2019-09-15 21:49:10,884 [main] INFO eBanking - Entering the userName
+2019-09-15 21:49:14,000 [main] INFO eBanking - Entering the password
+2019-09-15 21:49:14,096 [main] INFO eBanking - clicking on submit button
+2019-09-15 21:49:16,472 [main] INFO eBanking - Verifying the Title
+2019-09-15 21:49:16,474 [main] INFO eBanking - Tittle is correct Login testcase Passed
+2019-09-15 22:52:08,118 [main] INFO eBanking - Setting up  the chrome browser 
+2019-09-15 22:52:40,172 [main] INFO eBanking - Opening the URL
+2019-09-15 22:52:40,219 [main] INFO eBanking - Entering the userName
+2019-09-15 22:55:01,675 [main] INFO eBanking - Setting up  the chrome browser 
+2019-09-15 22:55:11,724 [main] INFO eBanking - Opening the URL
+2019-09-15 22:55:11,808 [main] INFO eBanking - Entering the userName
+2019-09-15 22:55:13,623 [main] INFO eBanking - Entering the password
+2019-09-15 22:55:13,697 [main] INFO eBanking - clicking on submit button
+2019-09-15 22:55:15,958 [main] INFO eBanking - Verifying the Title
+2019-09-15 22:55:15,960 [main] INFO eBanking - Tittle is correct Login testcase Passed
+2019-09-15 22:57:10,919 [main] INFO eBanking - Setting up  the firefox browser
+2019-09-15 22:57:40,120 [main] INFO eBanking - Opening the URL
+2019-09-15 22:57:40,227 [main] INFO eBanking - Entering the userName
+2019-09-15 22:57:40,391 [main] INFO eBanking - Entering the password
+2019-09-15 22:57:40,487 [main] INFO eBanking - clicking on submit button
+2019-09-15 22:57:45,887 [main] INFO eBanking - Verifying the Title
+2019-09-15 23:01:12,321 [main] INFO eBanking - Setting up  the chrome browser 
+2019-09-15 23:01:21,408 [main] INFO eBanking - Opening the URL
+2019-09-15 23:01:21,486 [main] INFO eBanking - Entering the userName
+2019-09-15 23:01:23,236 [main] INFO eBanking - Entering the password
+2019-09-15 23:01:23,317 [main] INFO eBanking - clicking on submit button
+2019-09-15 23:01:27,387 [main] INFO eBanking - Verifying the Title
+2019-09-15 23:01:27,395 [main] INFO eBanking - Tittle is correct Login testcase Passed
+2019-09-15 23:01:49,052 [main] INFO eBanking - Setting up  the IE browser
+2019-09-15 23:03:32,795 [main] INFO eBanking - Setting up  the IE browser
+2019-09-15 23:04:31,180 [main] INFO eBanking - Setting up  the firefox browser
+2019-09-15 23:04:39,946 [main] INFO eBanking - Opening the URL
+2019-09-15 23:04:40,037 [main] INFO eBanking - Entering the userName
+2019-09-15 23:04:40,107 [main] INFO eBanking - Entering the password
+2019-09-15 23:04:40,141 [main] INFO eBanking - clicking on submit button
+2019-09-15 23:04:42,240 [main] INFO eBanking - Verifying the Title
+2019-09-15 23:04:42,247 [main] INFO eBanking - Tittle is correct Login testcase Passed
+2019-09-15 23:07:56,017 [main] INFO eBanking - Setting up  the IE browser
