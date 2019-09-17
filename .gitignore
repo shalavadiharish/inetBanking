@@ -8,3 +8,4 @@ dbdriver
 target/
 reports/
 test-output/
+log/

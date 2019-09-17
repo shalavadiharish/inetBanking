@@ -49,3 +49,196 @@
 2019-09-15 23:04:42,240 - eBanking -INFO - Verifying the Title
 2019-09-15 23:04:42,247 - eBanking -INFO - Tittle is correct Login testcase Passed
 2019-09-15 23:07:56,017 - eBanking -INFO - Setting up  the IE browser
+2019-09-15 23:57:36,952 - eBanking -INFO - Setting up  the chrome browser 
+2019-09-15 23:58:36,329 - eBanking -INFO - Opening the URL
+2019-09-15 23:58:36,499 - eBanking -INFO - Entering the userName
+2019-09-15 23:58:36,655 - eBanking -INFO - Entering the password
+2019-09-15 23:58:36,733 - eBanking -INFO - clicking on submit button
+2019-09-15 23:58:57,593 - eBanking -INFO - Verifying the Title
+2019-09-16 00:22:40,702 - eBanking -INFO - Setting up  the chrome browser 
+2019-09-16 00:23:37,384 - eBanking -INFO - Opening the URL
+2019-09-16 00:23:37,450 - eBanking -INFO - Entering the userName
+2019-09-16 00:23:37,663 - eBanking -INFO - Entering the password
+2019-09-16 00:23:37,741 - eBanking -INFO - clicking on submit button
+2019-09-16 00:23:58,924 - eBanking -INFO - Verifying the Title
+2019-09-16 00:23:58,979 - eBanking -INFO - Tittle is correct Login testcase Passed
+2019-09-16 20:17:02,195 - ebanking -INFO - Entering the userName
+2019-09-16 20:17:10,694 - ebanking -INFO - Entering the password
+2019-09-16 20:17:10,809 - ebanking -INFO - clicking on submit button
+2019-09-16 20:17:13,456 - ebanking -INFO - Verifying the Title
+2019-09-16 23:25:05,913 - ebanking -INFO - Entering the userName
+2019-09-16 23:25:10,900 - ebanking -INFO - Entering the password
+2019-09-16 23:25:11,141 - ebanking -INFO - clicking on submit button
+2019-09-16 23:25:23,530 - ebanking -INFO - Verifying the Title
+2019-09-16 23:25:40,516 - ebanking -INFO - user name provided
+2019-09-16 23:25:40,596 - ebanking -INFO - password provided
+2019-09-16 23:26:11,541 - ebanking -INFO - user name provided
+2019-09-16 23:26:11,619 - ebanking -INFO - password provided
+2019-09-16 23:26:26,160 - ebanking -INFO - user name provided
+2019-09-16 23:26:26,229 - ebanking -INFO - password provided
+2019-09-16 23:26:58,974 - ebanking -INFO - user name provided
+2019-09-16 23:26:59,144 - ebanking -INFO - password provided
+2019-09-16 23:27:13,463 - ebanking -INFO - user name provided
+2019-09-16 23:27:13,534 - ebanking -INFO - password provided
+2019-09-17 18:17:00,705 - ebanking -INFO - Entering the userName
+2019-09-17 18:17:03,328 - ebanking -INFO - Entering the password
+2019-09-17 18:17:03,410 - ebanking -INFO - clicking on submit button
+2019-09-17 18:17:06,439 - ebanking -INFO - Verifying the Title
+2019-09-17 18:17:06,468 - ebanking -INFO - Login test passed
+2019-09-17 18:17:19,836 - ebanking -INFO - user name provided
+2019-09-17 18:17:19,915 - ebanking -INFO - password provided
+2019-09-17 18:17:24,829 - ebanking -INFO - Login passed
+2019-09-17 18:17:55,336 - ebanking -INFO - user name provided
+2019-09-17 18:17:55,410 - ebanking -INFO - password provided
+2019-09-17 18:18:56,914 - ebanking -INFO - user name provided
+2019-09-17 18:18:56,979 - ebanking -INFO - password provided
+2019-09-17 18:20:09,425 - ebanking -INFO - user name provided
+2019-09-17 18:20:09,504 - ebanking -INFO - password provided
+2019-09-17 18:20:19,841 - ebanking -INFO - Login passed
+2019-09-17 18:20:43,557 - ebanking -INFO - user name provided
+2019-09-17 18:20:43,624 - ebanking -INFO - password provided
+2019-09-17 19:31:14,353 - ebanking -INFO - Entering the userName
+2019-09-17 19:31:15,379 - ebanking -INFO - Entering the password
+2019-09-17 19:31:15,507 - ebanking -INFO - clicking on submit button
+2019-09-17 19:31:19,239 - ebanking -INFO - Verifying the Title
+2019-09-17 19:31:19,258 - ebanking -INFO - Login test passed
+2019-09-17 19:31:55,413 - ebanking -INFO - user name provided
+2019-09-17 19:31:55,502 - ebanking -INFO - password provided
+2019-09-17 19:32:01,065 - ebanking -INFO - Login passed
+2019-09-17 19:32:08,926 - ebanking -INFO - user name provided
+2019-09-17 19:32:09,028 - ebanking -INFO - password provided
+2019-09-17 19:32:14,002 - ebanking -INFO - user name provided
+2019-09-17 19:32:14,061 - ebanking -INFO - password provided
+2019-09-17 19:32:33,106 - ebanking -INFO - user name provided
+2019-09-17 19:32:33,169 - ebanking -INFO - password provided
+2019-09-17 19:33:17,653 - ebanking -INFO - Login passed
+2019-09-17 19:39:06,040 - ebanking -INFO - user name provided
+2019-09-17 19:39:06,154 - ebanking -INFO - password provided
+2019-09-17 19:39:11,261 - ebanking -INFO - user name provided
+2019-09-17 19:39:11,326 - ebanking -INFO - password provided
+2019-09-17 19:39:18,458 - ebanking -INFO - user name provided
+2019-09-17 19:39:18,525 - ebanking -INFO - password provided
+2019-09-17 19:39:23,934 - ebanking -INFO - Login passed
+2019-09-17 19:39:32,399 - ebanking -INFO - user name provided
+2019-09-17 19:39:32,459 - ebanking -INFO - password provided
+2019-09-17 19:39:45,424 - ebanking -INFO - User name is provided
+2019-09-17 19:39:45,500 - ebanking -INFO - Passsword is provided
+2019-09-17 19:39:52,095 - ebanking -INFO - providing customer details....
+2019-09-17 19:40:02,922 - ebanking -INFO - validation started....
+2019-09-17 19:40:02,941 - ebanking -INFO - test case passed....
+2019-09-17 20:32:58,156 - ebanking -INFO - Entering the userName
+2019-09-17 20:33:05,627 - ebanking -INFO - Entering the password
+2019-09-17 20:33:05,708 - ebanking -INFO - clicking on submit button
+2019-09-17 20:33:09,529 - ebanking -INFO - Verifying the Title
+2019-09-17 20:33:09,548 - ebanking -INFO - Login test passed
+2019-09-17 20:33:29,823 - ebanking -INFO - user name provided
+2019-09-17 20:33:29,910 - ebanking -INFO - password provided
+2019-09-17 20:33:36,267 - ebanking -INFO - Login passed
+2019-09-17 20:33:44,655 - ebanking -INFO - user name provided
+2019-09-17 20:33:44,718 - ebanking -INFO - password provided
+2019-09-17 20:33:52,012 - ebanking -INFO - user name provided
+2019-09-17 20:33:52,077 - ebanking -INFO - password provided
+2019-09-17 20:33:58,924 - ebanking -INFO - user name provided
+2019-09-17 20:33:58,995 - ebanking -INFO - password provided
+2019-09-17 20:34:06,059 - ebanking -INFO - Login passed
+2019-09-17 20:34:14,665 - ebanking -INFO - user name provided
+2019-09-17 20:34:14,737 - ebanking -INFO - password provided
+2019-09-17 20:34:43,839 - ebanking -INFO - User name is provided
+2019-09-17 20:34:43,962 - ebanking -INFO - Passsword is provided
+2019-09-17 20:43:25,765 - ebanking -INFO - Entering the userName
+2019-09-17 21:40:22,491 - ebanking -INFO - Entering the userName
+2019-09-17 21:40:24,153 - ebanking -INFO - Entering the password
+2019-09-17 21:40:24,228 - ebanking -INFO - clicking on submit button
+2019-09-17 21:40:27,357 - ebanking -INFO - Verifying the Title
+2019-09-17 21:40:27,405 - ebanking -INFO - Login test passed
+2019-09-17 21:40:56,938 - ebanking -INFO - user name provided
+2019-09-17 21:40:57,012 - ebanking -INFO - password provided
+2019-09-17 21:41:03,435 - ebanking -INFO - Login passed
+2019-09-17 21:41:10,872 - ebanking -INFO - user name provided
+2019-09-17 21:41:10,947 - ebanking -INFO - password provided
+2019-09-17 21:41:16,269 - ebanking -INFO - user name provided
+2019-09-17 21:41:16,335 - ebanking -INFO - password provided
+2019-09-17 21:41:23,332 - ebanking -INFO - user name provided
+2019-09-17 21:41:23,404 - ebanking -INFO - password provided
+2019-09-17 21:41:31,282 - ebanking -INFO - Login passed
+2019-09-17 21:41:40,026 - ebanking -INFO - user name provided
+2019-09-17 21:41:40,095 - ebanking -INFO - password provided
+2019-09-17 21:41:58,192 - ebanking -INFO - User name is provided
+2019-09-17 21:41:58,268 - ebanking -INFO - Passsword is provided
+2019-09-17 21:42:06,163 - ebanking -INFO - providing customer details....
+2019-09-17 21:42:17,019 - ebanking -INFO - validation started....
+2019-09-17 21:42:17,066 - ebanking -INFO - test case passed....
+2019-09-17 21:46:45,288 - ebanking -INFO - Entering the userName
+2019-09-17 21:46:47,275 - ebanking -INFO - Entering the password
+2019-09-17 21:46:47,352 - ebanking -INFO - clicking on submit button
+2019-09-17 21:46:49,477 - ebanking -INFO - Verifying the Title
+2019-09-17 21:46:49,485 - ebanking -INFO - Login test passed
+2019-09-17 21:47:52,265 - ebanking -INFO - Entering the userName
+2019-09-17 21:47:52,433 - ebanking -INFO - Entering the password
+2019-09-17 21:47:52,532 - ebanking -INFO - clicking on submit button
+2019-09-17 21:47:56,926 - ebanking -INFO - Verifying the Title
+2019-09-17 21:47:56,954 - ebanking -INFO - Login test passed
+2019-09-17 21:48:07,789 - ebanking -INFO - User name is provided
+2019-09-17 21:48:07,864 - ebanking -INFO - Passsword is provided
+2019-09-17 21:48:15,692 - ebanking -INFO - providing customer details....
+2019-09-17 21:48:27,964 - ebanking -INFO - validation started....
+2019-09-17 21:48:27,999 - ebanking -INFO - test case passed....
+2019-09-17 21:49:46,321 - ebanking -INFO - Entering the userName
+2019-09-17 21:49:46,449 - ebanking -INFO - Entering the password
+2019-09-17 21:49:46,532 - ebanking -INFO - clicking on submit button
+2019-09-17 21:49:56,214 - ebanking -INFO - Verifying the Title
+2019-09-17 21:49:56,236 - ebanking -INFO - Login test passed
+2019-09-17 21:50:11,714 - ebanking -INFO - User name is provided
+2019-09-17 21:50:11,793 - ebanking -INFO - Passsword is provided
+2019-09-17 21:50:20,734 - ebanking -INFO - providing customer details....
+2019-09-17 21:50:43,485 - ebanking -INFO - validation started....
+2019-09-17 21:50:43,504 - ebanking -INFO - test case passed....
+2019-09-17 21:52:12,699 - ebanking -INFO - Entering the userName
+2019-09-17 21:52:12,807 - ebanking -INFO - Entering the password
+2019-09-17 21:52:12,896 - ebanking -INFO - clicking on submit button
+2019-09-17 21:52:17,304 - ebanking -INFO - Verifying the Title
+2019-09-17 21:52:17,327 - ebanking -INFO - Login test passed
+2019-09-17 21:53:01,016 - ebanking -INFO - user name provided
+2019-09-17 21:53:01,084 - ebanking -INFO - password provided
+2019-09-17 21:53:09,061 - ebanking -INFO - Login passed
+2019-09-17 21:53:15,284 - ebanking -INFO - user name provided
+2019-09-17 21:53:15,381 - ebanking -INFO - password provided
+2019-09-17 21:53:21,281 - ebanking -INFO - user name provided
+2019-09-17 21:53:21,351 - ebanking -INFO - password provided
+2019-09-17 21:53:26,630 - ebanking -INFO - user name provided
+2019-09-17 21:53:26,691 - ebanking -INFO - password provided
+2019-09-17 21:53:31,264 - ebanking -INFO - Login passed
+2019-09-17 21:53:38,964 - ebanking -INFO - user name provided
+2019-09-17 21:53:39,035 - ebanking -INFO - password provided
+2019-09-17 21:54:23,722 - ebanking -INFO - User name is provided
+2019-09-17 21:54:23,796 - ebanking -INFO - Passsword is provided
+2019-09-17 21:54:31,080 - ebanking -INFO - providing customer details....
+2019-09-17 21:54:44,678 - ebanking -INFO - validation started....
+2019-09-17 21:54:44,713 - ebanking -INFO - test case passed....
+2019-09-17 21:59:11,848 - ebanking -INFO - user name provided
+2019-09-17 21:59:11,922 - ebanking -INFO - password provided
+2019-09-17 21:59:22,099 - ebanking -INFO - Login passed
+2019-09-17 22:01:23,466 - ebanking -INFO - user name provided
+2019-09-17 22:01:23,568 - ebanking -INFO - password provided
+2019-09-17 22:01:43,348 - ebanking -INFO - user name provided
+2019-09-17 22:01:43,412 - ebanking -INFO - password provided
+2019-09-17 22:02:31,235 - ebanking -INFO - user name provided
+2019-09-17 22:02:31,312 - ebanking -INFO - password provided
+2019-09-17 22:02:45,619 - ebanking -INFO - Login passed
+2019-09-17 22:03:00,896 - ebanking -INFO - user name provided
+2019-09-17 22:03:00,973 - ebanking -INFO - password provided
+2019-09-17 22:27:29,528 - ebanking -INFO - Entering the userName
+2019-09-17 22:27:32,288 - ebanking -INFO - Entering the password
+2019-09-17 22:27:32,432 - ebanking -INFO - clicking on submit button
+2019-09-17 22:27:46,621 - ebanking -INFO - Verifying the Title
+2019-09-17 22:27:46,733 - ebanking -INFO - Login test passed
+2019-09-17 22:30:20,734 - ebanking -INFO - Entering the userName
+2019-09-17 22:30:21,403 - ebanking -INFO - Entering the password
+2019-09-17 22:30:21,523 - ebanking -INFO - clicking on submit button
+2019-09-17 22:30:41,809 - ebanking -INFO - Verifying the Title
+2019-09-17 22:30:41,841 - ebanking -INFO - Login test passed
+2019-09-17 22:35:58,254 - ebanking -INFO - Entering the userName
+2019-09-17 22:35:58,726 - ebanking -INFO - Entering the password
+2019-09-17 22:35:58,838 - ebanking -INFO - clicking on submit button
+2019-09-17 22:37:08,189 - ebanking -INFO - Verifying the Title
+2019-09-17 22:37:08,225 - ebanking -INFO - Login test passed

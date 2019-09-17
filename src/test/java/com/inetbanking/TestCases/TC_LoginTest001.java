@@ -1,5 +1,7 @@
 package com.inetbanking.TestCases;
 
+import java.io.IOException;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -10,7 +12,7 @@ import com.inetbanking.pageObjects.LoginPage;
 public class TC_LoginTest001 extends BaseClass {
 	
 	@Test
-	public void loginTest() {
+	public void loginTest() throws IOException {
 		
 		LoginPage lp = new LoginPage(driver);
 		logger.info("Entering the userName");
@@ -19,10 +21,21 @@ public class TC_LoginTest001 extends BaseClass {
 		lp.setPassword(password);
 		logger.info("clicking on submit button");
         lp.clicksubmit();
-       String actual_result= driver.getTitle();
+      // String actual_result= driver.getTitle();
        logger.info("Verifying the Title");
-       Assert.assertEquals("Guru99 Bank Manager HomePage",actual_result, "We are not able to login to application" );
-       logger.info("Tittle is correct Login testcase Passed");
+       
+       if(driver.getTitle().equals("Guru99 Bank Manager HomePage"))
+		{
+			Assert.assertTrue(true);
+			logger.info("Login test passed");
+		}
+		else
+		{
+			captureScreen(driver,"loginTest");
+			Assert.assertTrue(false);
+			logger.info("Login test failed");
+		}
+     
         
 	}
 
